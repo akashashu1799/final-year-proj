@@ -23,10 +23,7 @@ assess user responses.
 
 ## Getting Started
 
-Download or clone the project from github:
-```
-$ git clone https://github.com/nityansuman/marvin.git
-```
+
 
 Create a project environment (Anaconda recommended):
 ```
